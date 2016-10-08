@@ -8,3 +8,6 @@ end
 
 # solution
 
+response = RobotA.new
+
+response.dry_my_hands

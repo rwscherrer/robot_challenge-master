@@ -8,3 +8,6 @@ end
 
 # solution
 
+solution = RobotE.create.new
+
+

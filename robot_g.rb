@@ -18,3 +18,9 @@ end
 
 # solution
 
+solution = CoolRobots::RobotG.new
+
+solution.get_time
+
+solution.get_weather("chicago")
+

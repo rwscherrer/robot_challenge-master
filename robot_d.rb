@@ -8,3 +8,5 @@ end
 
 # solution
 
+solution =RobotD.new("Joe", "At Gmail")
+

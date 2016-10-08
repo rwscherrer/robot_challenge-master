@@ -10,3 +10,8 @@ end
 
 # solution
 
+solution = CoolRobots::RobotF.new
+
+solution.laugh
+
+

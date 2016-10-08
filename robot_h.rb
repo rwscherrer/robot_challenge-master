@@ -13,3 +13,7 @@ end
 
 # solution
 
+solution = RobotH.new("Joe", "At Gmail")
+
+solution.say_full_name
+
